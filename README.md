@@ -1,4 +1,4 @@
-# optimizedpincracking
+# Hybrid pin cracking approaches
 To crack a 6-digit PIN in under 2 minutes and within 10 attempts using an optimized approach, we can combine the best features brute force, timing attack, SQL injection, and side-channel analysis. We'll use multithreading to parallelize the brute-force attack while leveraging timing leaks to reduce the search space.
 
 Key Enhancements:
